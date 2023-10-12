@@ -2284,6 +2284,7 @@ Books on general-purpose programming that don't focus on a specific language are
 * [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook)
 * [Rust for Rubyists](https://web.archive.org/web/20190520171322/http://www.rustforrubyists.com/book) - Steve Klabnik *(:card_file_box: archived)*
 * [Rust For Systems Programmers](https://github.com/nrc/r4cppp) - Nick Cameron
+* [Rust-101](https://www.ralfj.de/projects/rust-101/main.html) - ralfj.de
 * [The Embedded Rust Book](https://docs.rust-embedded.org/book/intro/index.html)
 * [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book)
 * [The Rust Language Reference](https://github.com/rust-lang/reference)
